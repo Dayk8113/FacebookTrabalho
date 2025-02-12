@@ -1,0 +1,137 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+.img{
+    width: 110px;
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 100%;
+}
+.div1{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 230px;
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.p1{
+    border-radius: 5px;
+}
+.div2{
+    width: 103%;
+    height: 110%px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p2{
+    color: rgb(87, 197, 197);
+}
+.div3{
+    display: flex 
+}
+h1{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.p3{
+    margin-left: 260px;
+    margin-top: -25px;
+}
+.div4{
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    height: 470px;
+    margin-top: 40px;
+    margin-left: 200px;
+    border-radius: 5px;
+}
+.h4{
+    margin-left: 20px;
+}
+.p4{
+    font-size: small;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.p5{
+    font-size: small;
+    margin-left: 20px;
+    font-size: small;
+}
+.img2{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 20px;
+}
+.div6{
+    display: flex
+}
+.div7{
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 300px;
+
+}
+.div8{
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+    width: 99,5%;
+    height: 980px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.p6{
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+.div9{
+    flex-direction: row;
+    margin-top: 40px;
+    margin-right: 300px;
+}
+.img3{
+    border-radius: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+}
+.p7{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.img4{
+    height: auto;
+    width: 300px;
+}
+.img5{
+    height: auto;
+    width: 200px;
+}
+.p8{
+    margin-left: 5px;
+    background-color: gray;
+}
+.img6{
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.div10{
+    background-color: rgb(255, 255, 255);
+    margin-left: 495px;
+    width: 45%;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
